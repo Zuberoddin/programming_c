@@ -1,0 +1,31 @@
+#include<stdio.h>
+main()
+{
+	int x=10101010,y=0,i,j;
+	for(i=0;i<8;i=i+2,j++)
+	{
+		if(x&(0x1<<j)==0)
+		{
+			y=y&(~(0x1<<j));
+			printf("%d",y);
+		}
+		else
+		{
+			y=y|(0x1<<j);
+			printf("%d",y);
+		}
+	}
+	for(i=1;i<8;i=i+2,j++)
+	{
+		if(x&(0x1<<j)==0)
+		{
+			y=y&(~(0x1<<j));
+			printf("%d",y);
+		}
+		else
+		{
+			y=y|(0x1<<j);
+			printf("%d",y);
+		}
+	}
+}

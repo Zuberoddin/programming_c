@@ -1,0 +1,15 @@
+0 -->Whethere the given two numbers are amicable or not
+1 --> Program to print given no. table up to 10 no.
+2 -->Program to print the pair of amicable numbers for given range of numbers
+3 -->Amstrong number or not
+4 -->Program to find the product of digits of a given number until it becomes a single digit
+5 -->Program for product and sum of multiples of a given number
+6 -->Program for factorial of a number
+7 -->Program for range of numbers in which number is equal to sum of multiples of that number or is the given number is a prefect number or not
+8 --> Prime number
+9 -->Program to print prime numbers for the range of numbers 
+10 -->Return 1 for prime and 0 for not a prime number using functions
+11 -->Program to convert the cm to inch and viceversa
+12 -->Program to convert cm to inch and viceverse by sending first argument as length and second argument character which denotes the measuring unit
+13 -->Find out the quotient and remainder whith out using %(&)/
+14 -->Program to find leap year

@@ -1,0 +1,18 @@
+#include<stdio.h>
+main()
+{
+	int i,fact=1,min,max,temp=0;
+	printf("Enter the ranges a b\n);
+	scanf("%d %d",&min,&max);
+	temp=min;
+	if(min<=max)
+	{
+	for(i=1;i<=temp;i++)
+	{
+		for(i=1;i<=temp;i++)
+		{
+			fact=fact*i;
+		}
+	}
+	printf("The values of given range of factorial numbers:%d %d \n",min,max);
+}

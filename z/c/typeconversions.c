@@ -1,0 +1,52 @@
+/*
+main()
+{
+	printf("%d",2+(int)3.5);
+}
+*/
+/*
+main()
+{
+	printf("%d",2+3.5);
+}
+*/
+/*
+main()
+{
+	printf("%f\n",2+3.5);
+}
+*/
+/*
+main()
+{
+	printf("%f\n",2+(float)3);
+}
+*/
+/*
+main()
+{
+	unsigned int x=0xAABBCDD;
+	unsigned int y=0;
+	y=(char)x;
+	printf("%X\n",y);
+	y=x;
+	printf("%X\n",y);
+}
+*/
+/*
+main()
+{
+	printf("%d",5/12);
+}
+*/
+/*
+main()
+{
+	printf("%f",5/12);
+}
+*/
+
+main()
+{
+	printf("%d",5.0/2);
+}
